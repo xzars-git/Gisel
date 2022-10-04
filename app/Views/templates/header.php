@@ -6,7 +6,7 @@
   <link rel="icon" type="image/png" href="<?php echo base_url() ?>/assets/img/manpro.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
-    MANPRO - 2021
+    MANPRO - 2022
   </title>
   <meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -20,7 +20,7 @@
     <div class="sidebar" data-color="danger" data-background-color="white" data-image="<?php echo base_url() ?>/assets/img/sidebar-1.jpg">
         <div class="logo">
             <a href="<?php echo base_url() ?>" class="simple-text logo-mini">>_</a>
-            <a href="<?php echo base_url() ?>" class="simple-text logo-normal">MANPRO 2021</a>
+            <a href="<?php echo base_url() ?>" class="simple-text logo-normal">MANPRO 2022</a>
         </div>
       <div class="sidebar-wrapper">
         <ul class="nav">

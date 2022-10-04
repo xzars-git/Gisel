@@ -130,9 +130,9 @@ Kolom ketentuan ditampilkan menjadi ket</pre>
                               <table class="table">
                                 <thead>
                                     <tr>
-                                        <th>id_tugas</th>
-                                        <th>tugas</th>
-                                        <th>ket</th>
+                                        <th>Nomor Tugas</th>
+                                        <th>Nama Tugas</th>
+                                        <th>Keterangan</th>
                                     </tr>
                                 </thead>
                                 <tbody>

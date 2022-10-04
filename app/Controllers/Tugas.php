@@ -33,8 +33,8 @@ class Tugas extends BaseController {
                     $data['success'] = "Berhasil melakukan query.";
                     foreach($model->getResult($sql) as $key => $value) {
                         $data['tugas'][$key][0] = $key+1;
-                        $data['tugas'][$key][1] = $value['tugas'];
-                        $data['tugas'][$key][2] = $value['ket'];
+                        $data['tugas'][$key][1] = $value['nama_tugas'];
+                        $data['tugas'][$key][2] = $value['ketentuan'];
                     }
                     
                     $session->setFlashdata('msg', '<div class="alert alert-success">
